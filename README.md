@@ -15,3 +15,5 @@ This is a simple repository that has instructions for creating a program to be r
 6. Write a JUnit test to excercise the controller.
 7. Application should be executable and tested.
 8. When complete, check your code into the repsotory and send the link to your repository
+
+#### Extra Credit: add a DELETE controller that does nothing, then add the HATEOAS to the POST response above 
